@@ -1,0 +1,1 @@
+int length(char* text);
