@@ -22,3 +22,4 @@ unsigned int matching(const char* pattern, FILE *file) {
 
 	return count;
 }
+

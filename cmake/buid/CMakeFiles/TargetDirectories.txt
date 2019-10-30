@@ -1,0 +1,3 @@
+/home/iby/Desktop/cmake/buid/CMakeFiles/rebuild_cache.dir
+/home/iby/Desktop/cmake/buid/CMakeFiles/test.dir
+/home/iby/Desktop/cmake/buid/CMakeFiles/edit_cache.dir
